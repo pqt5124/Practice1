@@ -1,1 +1,1 @@
-Imagas for Googal colab 
+Imagas for Google Colab 
